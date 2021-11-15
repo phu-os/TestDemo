@@ -1,0 +1,12 @@
+{
+    "provider": "aws-s3",
+    "providerOptions": 
+    {
+        "accessKeyId": "AKIA2JKFBMVGFZ4UC77E",
+        "secretAccessKey": "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",
+        "region": "ap-southeast-1",
+        "params": {
+            "Bucket":"myblogstrapibucket"
+        }
+    }
+}
